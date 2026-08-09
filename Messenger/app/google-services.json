@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254251519981",
+    "project_id": "messenger-app-3840f",
+    "storage_bucket": "messenger-app-3840f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254251519981:android:66f53e33cf33d39be161e4",
+        "android_client_info": {
+          "package_name": "com.igarciamen.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyntpWRMYFiAcruDE_QsNfP3tISHlYY1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
